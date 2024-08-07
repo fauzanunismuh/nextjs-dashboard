@@ -1,4 +1,5 @@
 import clsx from 'clsx';
+import "global.css";
 
 export function Button({ children, className, ...rest }) {
   return (
